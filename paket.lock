@@ -1,0 +1,6 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+    LibGit2Sharp (0.22)
+      LibGit2Sharp.NativeBinaries (1.0.129)
+    LibGit2Sharp.NativeBinaries (1.0.129)
+    NUnit (3.4.1)

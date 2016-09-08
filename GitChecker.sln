@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitChecker", "GitChecker\GitChecker.csproj", "{D8E8BD97-096E-488E-8F9A-7CB2D0FC2FED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitChecker.Tests", "GitChecker.Tests\GitChecker.Tests.csproj", "{A0D1C59F-A878-4AFF-925D-A26796FCFDA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D8E8BD97-096E-488E-8F9A-7CB2D0FC2FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8E8BD97-096E-488E-8F9A-7CB2D0FC2FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8E8BD97-096E-488E-8F9A-7CB2D0FC2FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D1C59F-A878-4AFF-925D-A26796FCFDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D1C59F-A878-4AFF-925D-A26796FCFDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D1C59F-A878-4AFF-925D-A26796FCFDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D1C59F-A878-4AFF-925D-A26796FCFDA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
